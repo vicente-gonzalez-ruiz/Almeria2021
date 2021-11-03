@@ -1,0 +1,2 @@
+git remote add upstream git@github.com:EliasCombarro/Almeria2021.git
+git pull upstream main
